@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NInJung", "NInJung\NInJung.csproj", "{615DC743-443C-4ABA-9FA0-F5E5A0456597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinJung_Test", "NinJung_Test\NinJung_Test.csproj", "{A6D5E6AA-65F2-42E4-B8F3-735777726851}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5AAB9342-4F3F-4D9B-BDCB-A09044B9BC55}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615DC743-443C-4ABA-9FA0-F5E5A0456597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615DC743-443C-4ABA-9FA0-F5E5A0456597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615DC743-443C-4ABA-9FA0-F5E5A0456597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615DC743-443C-4ABA-9FA0-F5E5A0456597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D5E6AA-65F2-42E4-B8F3-735777726851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D5E6AA-65F2-42E4-B8F3-735777726851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D5E6AA-65F2-42E4-B8F3-735777726851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D5E6AA-65F2-42E4-B8F3-735777726851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
