@@ -139,7 +139,7 @@ namespace NInJung
                 switch (word)
                 {
                     case 'ㅇ':
-                        Console.WriteLine("안녕 세계 ");
+                        Console.WriteLine("안녕 세계");
                         break;
                     case 'ㅈ':
                         Console.WriteLine();
